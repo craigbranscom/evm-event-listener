@@ -1,0 +1,9 @@
+DROP TABLE blockchains;
+DROP TABLE contracts;
+DROP TABLE transactions;
+DROP TABLE factories;
+DROP TABLE daos;
+DROP TABLE proposals;
+DROP TABLE members;
+DROP TABLE votes;
+DROP TABLE transfers;
