@@ -2,7 +2,7 @@
 
 ## Docker
 
-Start up postgres: `docker run -d -e POSTGRES_PASSWORD=password -e POSTGRES_USER=craig -p 5432:5432 postgres:latest`
+Start up postgres: `docker run -d -e POSTGRES_PASSWORD=postgres -e POSTGRES_USER=postgres -p 5432:5432 postgres:latest`
 
 ## Startup
 
